@@ -1,4 +1,4 @@
-# UoB-Python-homework
+# python-challenge
 
 This is my homework for Python module of the University of Birmingham - Data bootcamp
 
